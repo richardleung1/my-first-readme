@@ -2,6 +2,19 @@
 
 Repo explaining readme
 
+## Steps to Install on local computer
+1. Go to [repo](https://github.com/SEI-ATL/tic-tac-toe) on Github profile
+2. `fork` and `clone` repo
+3. Clone to local machine
+```text
+git clone
+```
+4. Go to `tic-tac-toe` directory
+5. Open `index.html` in browser
+```text
+open index.html
+```
+
 ```javascript
 const handleWin = (letter) => {
   gameIsLive = false;
